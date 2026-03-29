@@ -1,0 +1,4 @@
+ATIVO = "ativo"
+INATIVO = "inativo"
+
+STATUS_LIST = [ATIVO, INATIVO]
