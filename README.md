@@ -1,18 +1,27 @@
 # 📦 Sistema de Gestão de Estoque (CLI)
 
 ```
-
 ┌──────────────────────────────────────────────┐
 │   SISTEMA DE ESTOQUE • PYTHON • CLI v1.0     │
 │        Produtos • Vendas • Usuários          │
 └──────────────────────────────────────────────┘
 
+┌──────────────────────────────────────────────┐
+│                    LOGIN                     │
+├──────────────────────────────────────────────┤
+│  [1] Entrar                                  │
+│  [2] Criar conta                             │
+│  [3] Sair                                    │
+└──────────────────────────────────────────────┘
+
+➤ Escolha:
 ```
 
 ## 📌 Sobre o Projeto
 
 Sistema de gestão de estoque desenvolvido em **Python + MySQL**, com interface em terminal (CLI), focado em boas práticas de arquitetura e organização de código.
 O projeto simula um ambiente real de controle de produtos, vendas e usuários.
+
 ---
 
 ## 🚀 Funcionalidades
